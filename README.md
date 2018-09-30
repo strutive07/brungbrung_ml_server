@@ -1,4 +1,6 @@
-# 어서와 프로젝트 머신러닝 서버
+# 2018년 서울시 앱 공모전 출품작(어서와)
+
+### 어서와 프로젝트 머신러닝 서버
 ### 사용 모델 명
 Multinomial Naive Bayes Classification
 ---
